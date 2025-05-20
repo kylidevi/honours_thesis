@@ -7,5 +7,7 @@
 module load vcftools
 module load java
 
-vcftools --vcf /home/kdeville/projects/def-zmigicov/mig_lab/abc_wgs/gencove/data/master-vcf/Foodimprover.all.variants.new.vcf --keep /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/listIDs.txt --out /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/output_filtered_vcf
-
+vcftools --vcf /home/kdeville/projects/def-zmigicov/mig_lab/abc_wgs/gencove/data/master-vcf/Foodimprover.all.variants.new.vcf \
+--keep /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/listIDs.txt \
+--recode \
+--out /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/output_filtered_vcf > /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/log/matchingIDs.log 2> /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/log/matchingIDs.err
