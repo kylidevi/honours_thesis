@@ -1,0 +1,72 @@
+/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jackson-databind-2.13.2.2.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/sqlite-jdbc-3.39.2.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/ejml-ddense-0.41.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/log4j-api-2.21.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/slf4j-simple-1.7.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/itextpdf-5.1.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/trove-3.0.3.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jfreechart-1.0.19.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/ejml-core-0.41.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/biojava-alignment-6.0.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/mail-1.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jackson-annotations-2.13.2.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/phg.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/ini4j-0.5.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jfreesvg-3.2.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/commons-io-2.11.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/junit-4.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/kotlinx-coroutines-core-jvm-1.6.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/json-simple-1.1.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jackson-core-2.13.2.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/commons-codec-1.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/forester-1.039.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/error_prone_annotations-2.19.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jackson-module-kotlin-2.13.2.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/biojava-phylo-4.2.12.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/scala-library-2.10.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jhdf5-14.12.5.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/protobuf-kotlin-3.23.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/gs-core-1.3.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/jcommon-1.0.23.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/htsjdk-2.24.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/slf4j-api-1.7.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/postgresql-42.6.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/biojava-core-6.0.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/biojava-genome-6.0.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/kotlin-reflect-1.6.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/sshj-0.32.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/fastutil-8.2.2.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/guava-22.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/snappy-java-1.1.8.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/kotlin-stdlib-jdk7-1.6.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/protobuf-java-util-3.23.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/protobuf-java-3.23.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/colt-1.2.0.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/javax.json-1.0.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/commons-math3-3.4.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/ahocorasick-0.2.4.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/gs-ui-1.3.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/kotlin-stdlib-jdk8-1.6.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/kotlin-stdlib-1.6.10.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/lib/log4j-core-2.21.1.jar:/home/kdeville/projects/def-zmigicov/mig_lab/bin/tassel/V5.2.94/sTASSEL.jar
+Memory Settings: -Xms512m -Xmx1490g
+Tassel Pipeline Arguments: -fork1 -vcf /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/heterozygosity_filtered.recode.vcf -export /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/SNPs_hapmap -exportType Hapmap
+Picked up JAVA_TOOL_OPTIONS: -Xmx1490g
+[main] INFO net.maizegenetics.tassel.TasselLogging - Tassel Version: 5.2.94  Date: August 20, 2024
+[main] INFO net.maizegenetics.tassel.TasselLogging - Max Available Memory Reported by JVM: 1474901 MB
+[main] INFO net.maizegenetics.tassel.TasselLogging - Java Version: 17.0.6
+[main] INFO net.maizegenetics.tassel.TasselLogging - OS: Linux
+[main] INFO net.maizegenetics.tassel.TasselLogging - Number of Processors: 1
+[main] INFO net.maizegenetics.tassel.TasselLogging - Tassel Citation: Bradbury PJ, Zhang Z, Kroon DE, Casstevens TM, Ramdoss Y, Buckler ES. (2007) TASSEL: Software for association mapping of complex traits in diverse samples. Bioinformatics 23:2633-2635.
+[main] INFO net.maizegenetics.tassel.TasselLogging - 
+[main] INFO net.maizegenetics.tassel.TasselLogging - Tassel Using Library: Practical Haplotype Graph (PHG): Version: 1.10 Date: August 20, 2024
+[main] INFO net.maizegenetics.tassel.TasselLogging - PHG Citation: Bradbury PJ, Casstevens T, Jensen SE, Johnson LC, Miller ZR, Monier B, Romay MC, Song B, Buckler ES. The Practical Haplotype Graph, a platform for storing and using pangenomes for imputation. Bioinformatics. 2022 Aug 2;38(15):3698-3702. doi: 10.1093/bioinformatics/btac410. PMID: 35748708; PMCID: PMC9344836.
+[main] INFO net.maizegenetics.pipeline.TasselPipeline - Tassel Pipeline Arguments: [-fork1, -vcf, /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/heterozygosity_filtered.recode.vcf, -export, /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/SNPs_hapmap, -exportType, Hapmap]
+[pool-2-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - Starting net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 5:40:21
+[pool-2-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - 
+FileLoadPlugin Parameters
+format: VCF
+sortPositions: false
+keepDepth: false
+
+[pool-2-thread-1] INFO net.maizegenetics.analysis.data.FileLoadPlugin - Start Loading File: /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/heterozygosity_filtered.recode.vcf time: May 27, 2025 5:40:21
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 6:18:25: progress: 0%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 6:19:35: progress: 10%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 6:36:55: progress: 20%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 6:54:35: progress: 30%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 7:12:21: progress: 40%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 7:29:48: progress: 50%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 7:47:23: progress: 60%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 8:05:3: progress: 70%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 8:22:47: progress: 80%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 8:40:57: progress: 90%
+[pool-2-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 8:59:4: progress: 100%
+[pool-2-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - net.maizegenetics.analysis.data.FileLoadPlugin  Citation: Bradbury PJ, Zhang Z, Kroon DE, Casstevens TM, Ramdoss Y, Buckler ES. (2007) TASSEL: Software for association mapping of complex traits in diverse samples. Bioinformatics 23:2633-2635.
+BuilderFromVCF data timing 11934.1s 
+[pool-2-thread-1] INFO net.maizegenetics.analysis.data.FileLoadPlugin - Finished Loading File: /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/heterozygosity_filtered.recode.vcf time: May 27, 2025 8:59:16
+Genotype Table Name: heterozygosity_filtered
+Number of Taxa: 504
+Number of Sites: 22270438
+Sites x Taxa: 11224300752
+Chromosomes...
+0: start site: 0 (22) last site: 1213657 (52705674) total: 1213658
+1: start site: 1213658 (907) last site: 2230673 (32625248) total: 1017016
+2: start site: 2230674 (381) last site: 3545901 (37576780) total: 1315228
+3: start site: 3545902 (42) last site: 4752822 (37524055) total: 1206921
+4: start site: 4752823 (2481) last site: 5794376 (32301777) total: 1041554
+5: start site: 5794377 (108) last site: 7424907 (47952406) total: 1630531
+6: start site: 7424908 (22) last site: 8396228 (37131792) total: 971321
+7: start site: 8396229 (39) last site: 9570512 (36691104) total: 1174284
+8: start site: 9570513 (709) last site: 10676785 (31609261) total: 1106273
+9: start site: 10676786 (25) last site: 11817450 (37603809) total: 1140665
+10: start site: 11817451 (5721) last site: 13324786 (41760404) total: 1507336
+11: start site: 13324787 (63) last site: 14688386 (43055625) total: 1363600
+12: start site: 14688387 (3012) last site: 15829242 (33046102) total: 1140856
+13: start site: 15829243 (3885) last site: 17195252 (44339386) total: 1366010
+14: start site: 17195253 (4963) last site: 18311077 (32513440) total: 1115825
+15: start site: 18311078 (3139) last site: 19859157 (54945127) total: 1548080
+16: start site: 19859158 (66) last site: 21071898 (41387454) total: 1212741
+17: start site: 21071899 (125) last site: 22270437 (34745653) total: 1198539
+
+[pool-2-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - Finished net.maizegenetics.analysis.data.FileLoadPlugin: time: May 27, 2025 8:59:16
+[pool-2-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - Starting net.maizegenetics.analysis.data.ExportPlugin: time: May 27, 2025 8:59:16
+[pool-2-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - 
+ExportPlugin Parameters
+saveAs: /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/SNPs_hapmap
+format: Hapmap
+keepDepth: true
+includeTaxaAnnotations: true
+includeBranchLengths: true
+
+[pool-2-thread-1] INFO net.maizegenetics.analysis.data.ExportPlugin - performFunction: wrote dataset: heterozygosity_filtered to file: /home/kdeville/projects/def-zmigicov/mig_lab/honours_kylie/outputs/SNPs_hapmap.hmp.txt
+[pool-2-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - Finished net.maizegenetics.analysis.data.ExportPlugin: time: May 27, 2025 9:16:49
