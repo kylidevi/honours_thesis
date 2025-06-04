@@ -29,5 +29,5 @@ mlmm_results <- GAPIT(
   G = wgs_data,
   model = "MLM",
   SNP.MAF = 0.01,
-  PC.total = 3
+  PCA.total = 3
 )
